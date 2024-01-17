@@ -7,4 +7,7 @@ public class githubClass1 {
 
 	}
 
+	public static void test() {
+		System.out.println("ddd");
+	}
 }
